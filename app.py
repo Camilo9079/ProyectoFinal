@@ -279,6 +279,5 @@ if uploaded_file:
                     ax.set_zlabel("Componente Principal 3")
                     fig.colorbar(scatter, label="Cluster")
                     st.pyplot(fig)
-
-
-
+                    
+                    
